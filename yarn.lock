@@ -4095,9 +4095,7 @@ gulp-sourcemaps@^2.6.5:
     through2 "2.X"
 
 gulp-stylus@^2.7.0:
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/gulp-stylus/-/gulp-stylus-2.7.0.tgz#f3e932626004927b75ea27ff5c1d3b0ba0b7cbb1"
-  integrity sha512-LlneLeHcaRBaEqxwo5YCirpsfkR7uleQ4pHXW8IE2ZeA6M3jpgI90+zQ6SptMTSWr1RSQW3WYFZVA3P0coUojw==
+  version "2.7.1"
   dependencies:
     accord "^0.26.3"
     lodash.assign "^3.2.0"
